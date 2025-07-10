@@ -50,10 +50,6 @@ Generate dynamic HTML forms using AI prompts
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
-  <!-- ✅ working Tailwind icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45"/>
-  <!-- ✅ working EJS icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" width="45" height="45"/>
 
   <!-- Back‑end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
@@ -64,8 +60,6 @@ Generate dynamic HTML forms using AI prompts
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="45" height="45"/>
-  <!-- ✅ NeonDB – using official Neon logo (square fits nicely) -->
-  <img src="https://raw.githubusercontent.com/neondatabase/neon/main/docs/images/logo.svg" width="45" height="45" title="NeonDB"/>
 
 </p>
 
