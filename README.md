@@ -1,108 +1,82 @@
 <h1 align="center">Hi 👋, I'm Siddharth Gupta</h1>
-<h3 align="center">DevOps Enthusiast | Cloud Explorer | Open to Remote Roles</h3>
+<h3 align="center">Aspiring Software Developer | Full-Stack Enthusiast | Open to Remote Roles</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Engineer+in+training;AWS+%7C+Docker+%7C+K8s+%7C+CI%2FCD;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Full-Stack+Projects;MongoDB+%7C+Node.js+%7C+React+%7C+MySQL;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd-year Computer Engineering student passionate about DevOps, cloud, and automation
-- 🛠️ Built CI/CD pipelines with Jenkins & GitHub Actions, deployed apps on AWS, Dockerized full-stack apps
-- 🤖 Learning ML/DL (ANN, CNN, SVM) with future plans to integrate into DevOps workflows
-- 📫 Reach me at **krrishmahar5@gmail.com**
+- 💻 I'm a passionate and dedicated **Software Developer** with experience in both frontend and backend development  
+- 🌐 Proficient in **HTML, CSS, Tailwind, React, Bootstrap, Node.js, Express.js, Next.js**
+- 🧠 Strong foundation in **C, Java (OOP), Data Structures**, and **Full-Stack Web Development**
+- 🛠️ Backend experience also includes **Python**, REST APIs, and MVC architecture
+- 📊 Worked with **MongoDB**, **MySQL**, **Prisma ORM**, and **NeonDB**
+- 🚀 I enjoy building scalable applications, solving real-world problems, and continuously learning new tech
+- 📫 Reach me at **siddharthgupta2482005@gmail.com**
 
 ---
 
-## 🔨 My DevOps Projects
+## 🔨 Projects
 
-### 📦 [Go Wiki DevOpsified](https://github.com/krrishmahar/go-wiki-devopsified)
-CI/CD using Jenkins, GitHub Webhooks → Dockerized Go App → EC2 + Nginx  
-> Tools: Go, Docker, Jenkins, EC2, Webhooks
+### 💼 [Finance AI](https://finanace-ai-sidd.vercel.app/)
+AI-powered finance assistant for smart tracking and insights  
+> **Stack:** React, Tailwind, OpenAI API
 
-### 🏗️ [Java App on AWS – 3-Tier Arch](https://github.com/krrishmahar/Java-App-on-AWS-3-Tier-Architecture)
-Web-App with EC2 (App), RDS (DB), S3 (Assets), Nginx reverse proxy  
-> Tools: Java, AWS, RDS, S3, Tomcat, Nginx
+### 📸 [Gifly](https://sidd-gifly.vercel.app/)
+Search & view trending GIFs using Giphy API  
+> **Stack:** React, Giphy API, CSS Animations
 
-### 🏨 [Veda Hotel Booking App](https://github.com/krrishmahar/veda-app)
-React + Spring Boot App with CI/CD via GitHub Actions, Dockerized backend  
-> Tools: React, Spring Boot, MySQL, GitHub Actions
-
-### 🤖 [Fetch My Tweets](https://github.com/krrishmahar/fetch-tweets)
-Python bot + GitHub Action that scrapes tweets and updates profile README  
-> Tools: Python, Selenium, GitHub Actions
-
-### ✍️ [Microblog (Flask)](https://github.com/krrishmahar/my-microblog)
-Flask blog with authentication & database integration  
-> Tools: Python, Flask, SQLite/MySQL
+### 🧾 [AI Form Builder](https://ai-form-builder-sidd.vercel.app/)
+Generate dynamic HTML forms using AI prompts  
+> **Stack:** React, OpenAI API, Tailwind
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  
-  <!-- DevOps Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45"/>
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-8a2be2?style=for-the-badge)
 
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  width="45" height="45"/>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  <!-- Web Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="45" height="45"/>
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![NeonDB](https://img.shields.io/badge/Neon-0080FF?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-
-  <!-- ML Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
-
-  <!-- Monitoring -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" width="45" height="45"/>
-</p>
+### 💻 Programming
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
+## 🎓 Education
 
-## ✍️ Blog Posts
-
-- [Reality Check of Technology in 2024](https://medium.com/@krrishmahar5/reality-check-of-technology-in-2024-f3df714dc564)
-- [Scalable Code via Asymptotic Notations](https://medium.com/@krrishmahar5/scalable-code-via-asymptotic-notations-606050d27c57)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krrishmahar&show_icons=true&theme=radical)
-
-<!-- Language stats based only on selected main projects -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krrishmahar&layout=compact&theme=radical&repo=go-wiki-devopsified,Java-App-on-AWS-3-Tier-Architecture,veda-app,veda-app-backend,my-microblog,fetch-tweets)
+- 🏫 **B.E. Computer Science** — Vasantdada Patil Pratishthan’s College of Engineering & Visual Arts (2023–2027)  
+- 🎓 12th — Bharatiya Vidya Bhavan's, Andheri, Mumbai — *A Grade*  
+- 🎓 10th — Rose Manor High School, Santacruz, Mumbai — *A Grade*
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/krrish-mahar)
-- 🐙 [GitHub](https://github.com/krrishmahar)
-- ✍️ [Medium](https://medium.com/@krrishmahar5)
-- 📬 Email: krrishmahar5@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/sidd-gupta05)
+- 🐙 [GitHub](https://github.com/sidd-gupta05)
+- 📬 **Email**: siddharthgupta2482005@gmail.com
 
 ---
 
-Thanks for visiting my profile!
+Thanks for visiting! 🚀 Feel free to explore my projects and connect!
