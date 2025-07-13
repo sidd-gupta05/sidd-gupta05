@@ -24,15 +24,19 @@
 
 ### 💼 [Finance AI](https://finanace-ai-sidd.vercel.app/)
 AI-powered finance assistant for smart tracking and insights  
-> **Stack:** React, Tailwind, OpenAI API
+> **Stack:** React, Tailwind, OpenAI API, Next.js
 
 ### 📸 [Gifly](https://sidd-gifly.vercel.app/)
 Search & view trending GIFs using Giphy API  
-> **Stack:** React, Giphy API, CSS Animations
+> **Stack:** React, Giphy API, Tailwind Animations
 
 ### 🧾 [AI Form Builder](https://ai-form-builder-sidd.vercel.app/)
 Generate dynamic HTML forms using AI prompts  
-> **Stack:** React, OpenAI API, Tailwind
+> **Stack:** React, OpenAI API, Tailwind, Next.js
+
+### 🎙️ [Koragg AI Voice Assistant](https://github.com/sidd-gupta05/sidd-gupta05/Koragg-AI-Voice-Assistant)
+Smart voice assistant to control your PC—open apps/websites, send WhatsApp messages, generate images, play YouTube, and more.
+> **Stack** Python, Selenium, Web Speech API, OpenAI API, pywhatkit, Pygame, more
 
 ---
 
