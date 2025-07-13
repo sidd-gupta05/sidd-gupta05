@@ -34,7 +34,7 @@ Search & view trending GIFs using Giphy API
 Generate dynamic HTML forms using AI prompts  
 > **Stack:** React, OpenAI API, Tailwind, Next.js
 
-### 🎙️ [Koragg AI Voice Assistant](https://github.com/sidd-gupta05/sidd-gupta05/Koragg-AI-Voice-Assistant)
+### 🎙️ [Koragg AI Voice Assistant](https://github.com/sidd-gupta05/Koragg-AI-Voice-Assistant)
 Smart voice assistant to control your PC—open apps/websites, send WhatsApp messages, generate images, play YouTube, and more.
 > **Stack** Python, Selenium, Web Speech API, OpenAI API, pywhatkit, Pygame, more
 
