@@ -70,6 +70,16 @@ Smart voice assistant to control your PC—open apps/websites, send WhatsApp mes
 
 ---
 
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidd-gupta05&show_icons=true&theme=transparent)
+
+<!-- Language stats based only on selected main projects -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidd-gupta05&layout=compact&theme=radical&repo=Koragg-AI-Voice-Assistant,Finanace-AI,gifly,ai-form-builder)
+
+---
+
 ## 🎓 Education
 
 - 🏫 **B.E. Computer Science** — Vasantdada Patil Pratishthan’s College of Engineering & Visual Arts (2023–2027)  
