@@ -13,11 +13,23 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 
 ---
 
-## 🔨 Projects
+## 🔨 Featured Projects
+
+### 🎙️ [Koragg AI Voice Assistant](https://github.com/sidd-gupta05/Koragg-AI-Voice-Assistant)
+Smart voice assistant to control your PC—open apps/websites, send WhatsApp messages, generate images, play YouTube, and more.
+> **Stack:** Python, Selenium, Web Speech API, OpenAI API, pywhatkit, Pygame
+
+### 🔬 [Labsphere](https://labsphere-three.vercel.app/)
+Modern laboratory management platform for equipment tracking and research collaboration  
+> **Stack:** React, Next.js, Tailwind CSS, TypeScript
 
 ### 💼 [Finance AI](https://finanace-ai-sidd.vercel.app/)
 AI-powered finance assistant for smart tracking and insights  
 > **Stack:** React, Tailwind, OpenAI API, Next.js
+
+### 🎨 [Portfolio](https://siddharth-portfolio-liart.vercel.app/)
+Personal portfolio showcasing projects, skills, and experience  
+> **Stack:** React, Tailwind CSS, Framer Motion
 
 ### 📸 [Gifly](https://sidd-gifly.vercel.app/)
 Search & view trending GIFs using Giphy API  
@@ -26,18 +38,6 @@ Search & view trending GIFs using Giphy API
 ### 🧾 [AI Form Builder](https://ai-form-builder-sidd.vercel.app/)
 Generate dynamic HTML forms using AI prompts  
 > **Stack:** React, OpenAI API, Tailwind, Next.js
-
-### 🔬 [Labsphere](https://labsphere-three.vercel.app/)
-Modern laboratory management platform for equipment tracking and research collaboration  
-> **Stack:** React, Next.js, Tailwind CSS, TypeScript
-
-### 🎨 [Portfolio](https://siddharth-portfolio-liart.vercel.app/)
-Personal portfolio showcasing projects, skills, and experience  
-> **Stack:** React, Tailwind CSS, Framer Motion
-
-### 🎙️ [Koragg AI Voice Assistant](https://github.com/sidd-gupta05/Koragg-AI-Voice-Assistant)
-Smart voice assistant to control your PC—open apps/websites, send WhatsApp messages, generate images, play YouTube, and more.
-> **Stack:** Python, Selenium, Web Speech API, OpenAI API, pywhatkit, Pygame, more
 
 ---
 
@@ -72,11 +72,24 @@ Smart voice assistant to control your PC—open apps/websites, send WhatsApp mes
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidd-gupta05&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sidd-gupta05&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidd-gupta05&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidd-gupta05&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd-gupta05&theme=radical" alt="Profile Details" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidd-gupta05&theme=radical" alt="Repos per Language" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidd-gupta05&theme=radical" alt="Most Commit Language" width="45%" />
+</div>
 
 ---
 
