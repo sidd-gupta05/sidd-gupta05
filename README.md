@@ -1,4 +1,6 @@
+<p align="center">
 # 👋 Hi, I'm Siddharth Gupta
+</p>
 
 ## 👨‍💻 About Me
 
