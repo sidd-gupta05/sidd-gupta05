@@ -1,17 +1,10 @@
-<h1 align="center">Hi 👋, I'm Siddharth Gupta</h1>
-<h3 align="center">Computer Science Student | Exploring AI/ML & Data Science | Full-Stack Developer </h3>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=13F74F&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Full-Stack+Projects;MongoDB+%7C+Node.js+%7C+React+%7C+MySQL;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
-</p>
-
----
+# Hi 👋, I'm Siddharth Gupta
 
 ## 👨‍💻 About Me
 
-- 💻 I'm a passionate and dedicated **Software Developer** with experience in both frontend and backend development  
-- 🌐 Proficient in **HTML, CSS, Tailwind, React, Bootstrap, Node.js, Express.js, Next.js**
+I'm a passionate and dedicated **Software Developer** with experience in both frontend and backend development. I'm currently exploring **AI/ML & Data Science** while building full-stack applications.
+
+- 💻 Proficient in **HTML, CSS, Tailwind, React, Bootstrap, Node.js, Express.js, Next.js**
 - 🧠 Strong foundation in **C, Java (OOP), Data Structures**, and **Full-Stack Web Development**
 - 🛠️ Backend experience also includes **Python**, REST APIs, and MVC architecture
 - 📊 Worked with **MongoDB**, **MySQL**, **Prisma ORM**, and **NeonDB**
@@ -34,9 +27,17 @@ Search & view trending GIFs using Giphy API
 Generate dynamic HTML forms using AI prompts  
 > **Stack:** React, OpenAI API, Tailwind, Next.js
 
+### 🔬 [Labsphere](https://labsphere-three.vercel.app/)
+Modern laboratory management platform for equipment tracking and research collaboration  
+> **Stack:** React, Next.js, Tailwind CSS, TypeScript
+
+### 🎨 [Portfolio](https://siddharth-portfolio-liart.vercel.app/)
+Personal portfolio showcasing projects, skills, and experience  
+> **Stack:** React, Tailwind CSS, Framer Motion
+
 ### 🎙️ [Koragg AI Voice Assistant](https://github.com/sidd-gupta05/Koragg-AI-Voice-Assistant)
 Smart voice assistant to control your PC—open apps/websites, send WhatsApp messages, generate images, play YouTube, and more.
-> **Stack** Python, Selenium, Web Speech API, OpenAI API, pywhatkit, Pygame, more
+> **Stack:** Python, Selenium, Web Speech API, OpenAI API, pywhatkit, Pygame, more
 
 ---
 
@@ -69,17 +70,13 @@ Smart voice assistant to control your PC—open apps/websites, send WhatsApp mes
 
 </p>
 
-
 ---
-
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidd-gupta05&show_icons=true&theme=transparent)
 
-<!-- Language stats based only on selected main projects -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidd-gupta05&layout=compact&theme=radical&repo=Koragg-AI-Voice-Assistant,Finanace-AI,gifly,ai-form-builder)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidd-gupta05&layout=compact&theme=radical)
 
 ---
 
