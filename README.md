@@ -1,4 +1,4 @@
-# Hi 👋, I'm Siddharth Gupta
+# 👋 Hi, I'm Siddharth Gupta
 
 ## 👨‍💻 About Me
 
@@ -7,7 +7,8 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 - 💻 Proficient in **HTML, CSS, Tailwind, React, Bootstrap, Node.js, Express.js, Next.js**
 - 🧠 Strong foundation in **C, Java (OOP), Data Structures**, and **Full-Stack Web Development**
 - 🛠️ Backend experience also includes **Python**, REST APIs, and MVC architecture
-- 📊 Worked with **MongoDB**, **MySQL**, **Prisma ORM**, and **NeonDB**
+- 📊 Worked with **MongoDB, MySQL, Prisma ORM, and NeonDB**
+- 🎯 Currently learning **Machine Learning and System Design**
 - 🚀 I enjoy building scalable applications, solving real-world problems, and continuously learning new tech
 - 📫 Reach me at **siddharthgupta2482005@gmail.com**
 
@@ -15,90 +16,127 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 
 ## 🔨 Featured Projects
 
-### 🎙️ [Koragg AI Voice Assistant](https://github.com/sidd-gupta05/Koragg-AI-Voice-Assistant)
-Smart voice assistant to control your PC—open apps/websites, send WhatsApp messages, generate images, play YouTube, and more.
-> **Stack:** Python, Selenium, Web Speech API, OpenAI API, pywhatkit, Pygame
+### 🎙️ **[Koragg AI Voice Assistant](https://github.com/sidd-gupta05/Koragg-AI-Voice-Assistant)**  
+*Smart voice assistant to control your PC—open apps/websites, send WhatsApp messages, generate images, play YouTube, and more.*  
+> **Tech Stack:** Python, Selenium, Web Speech API, OpenAI API, pywhatkit, Pygame  
+> **Features:** Voice-controlled automation, AI integration, multi-platform support, real-time processing  
 
-### 🔬 [Labsphere](https://labsphere-three.vercel.app/)
-Modern laboratory management platform for equipment tracking and research collaboration  
-> **Stack:** React, Next.js, Tailwind CSS, TypeScript
+### 🔬 **[Labsphere](https://labsphere-three.vercel.app/)**  
+*Modern laboratory management platform for equipment tracking and research collaboration*  
+> **Tech Stack:** React, Next.js, Tailwind CSS, TypeScript  
+> **Features:** Equipment inventory, booking system, user management, responsive design  
 
-### 💼 [Finance AI](https://finanace-ai-sidd.vercel.app/)
-AI-powered finance assistant for smart tracking and insights  
-> **Stack:** React, Tailwind, OpenAI API, Next.js
+### 💼 **[Finance AI](https://finanace-ai-sidd.vercel.app/)**  
+*AI-powered finance assistant for smart tracking and insights*  
+> **Tech Stack:** React, Tailwind, OpenAI API, Next.js  
+> **Features:** Expense tracking, AI insights, financial analytics, budget planning  
 
-### 🎨 [Portfolio](https://siddharth-portfolio-liart.vercel.app/)
-Personal portfolio showcasing projects, skills, and experience  
-> **Stack:** React, Tailwind CSS, Framer Motion
+### 🎨 **[Portfolio](https://siddharth-portfolio-liart.vercel.app/)**  
+*Personal portfolio showcasing projects, skills, and experience*  
+> **Tech Stack:** React, Tailwind CSS, Framer Motion  
+> **Features:** Interactive UI, smooth animations, project showcase, responsive design  
 
-### 📸 [Gifly](https://sidd-gifly.vercel.app/)
-Search & view trending GIFs using Giphy API  
-> **Stack:** React, Giphy API, Tailwind Animations
+### 📸 **[Gifly](https://sidd-gifly.vercel.app/)**  
+*Search & view trending GIFs using Giphy API*  
+> **Tech Stack:** React, Giphy API, Tailwind Animations  
+> **Features:** Real-time search, trending section, favorites, responsive grid  
 
-### 🧾 [AI Form Builder](https://ai-form-builder-sidd.vercel.app/)
-Generate dynamic HTML forms using AI prompts  
-> **Stack:** React, OpenAI API, Tailwind, Next.js
+### 🧾 **[AI Form Builder](https://ai-form-builder-sidd.vercel.app/)**  
+*Generate dynamic HTML forms using AI prompts*  
+> **Tech Stack:** React, OpenAI API, Tailwind, Next.js  
+> **Features:** AI-powered form generation, customization options, export functionality  
 
 ---
 
 ## 🛠️ Tech Stack
 
+### **Programming Languages**
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" title="TypeScript"/>
+</p>
 
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+### **Frontend Development**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" title="Bootstrap"/>
+</p>
 
-  <!-- Front‑end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
-
-  <!-- Back‑end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="45" height="45"/>
-
+### **Backend & Databases**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="50" height="50" title="Prisma ORM"/>
 </p>
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidd-gupta05&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidd-gupta05&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd-gupta05&theme=radical" alt="Profile Details" />
-</p>
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidd-gupta05&theme=radical" alt="Repos per Language" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidd-gupta05&theme=radical" alt="Most Commit Language" width="45%" />
+
+### **GitHub Overview**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidd-gupta05&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidd-gupta05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+### **Development Streak**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sidd-gupta05&theme=radical&hide_border=true&background=0D1117&dates=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
+
+### **Detailed Analytics**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd-gupta05&theme=radical" alt="Profile Details" width="100%"/>
+</p>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidd-gupta05&theme=radical" alt="Repos per Language" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidd-gupta05&theme=radical" alt="Most Commit Language" width="48%"/>
+</div>
+
+### **Achievements**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sidd-gupta05&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4)
+
+### **Contribution Graph**
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidd-gupta05&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/sidd-gupta05)
-- 🐙 [GitHub](https://github.com/sidd-gupta05)
-- 📬 **Email**: siddharthgupta2482005@gmail.com
+<div align="center">
+  
+  <a href="https://linkedin.com/in/sidd-gupta05" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sidd-gupta05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:siddharthgupta2482005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://siddharth-portfolio-liart.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
+</div>
 
 ---
 
-Thanks for visiting! 🚀 Feel free to explore my projects and connect!
+<div align="center">
+  
+  ### 🚀 **Always Building, Always Learning**
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=sidd-gupta05&color=blueviolet&style=flat-square)
+  
+  ⭐️ **Feel free to explore my repositories and connect with me!**
+  
+</div>
