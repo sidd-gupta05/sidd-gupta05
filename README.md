@@ -100,9 +100,6 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidd-gupta05&theme=radical" alt="Most Commit Language" width="48%"/>
 </div>
 
-### **Achievements**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sidd-gupta05&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4)
-
 ### **Contribution Graph**
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidd-gupta05&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
 
