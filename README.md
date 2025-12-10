@@ -90,9 +90,6 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 
 <div align="center">
 
-### **Development Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sidd-gupta05&theme=radical&hide_border=true&background=0D1117&dates=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
-
 ### **Detailed Analytics**
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd-gupta05&theme=radical" alt="Profile Details" width="100%"/>
