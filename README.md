@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Siddharth Gupta</h1>
-<h3 align="center">Computer Science Student | Exploring AI/ML & Data Science | Full-Stack Developer </h3>
+# Hi 👋, I'm Siddharth Gupta
 
+<h3 align="center">Computer Science Student | Exploring AI/ML & Data Science | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=13F74F&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Full-Stack+Projects;MongoDB+%7C+Node.js+%7C+React+%7C+MySQL;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
-
 
 ## 👨‍💻 About Me
 
@@ -90,6 +89,18 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 
 <div align="center">
 
+### **Streak Stats & Overview**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidd-gupta05&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=00FF00&fire=FF0000&currStreakLabel=00FF00" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sidd-gupta05&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+</p>
+
+### **Language Usage & Activity**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidd-gupta05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidd-gupta05&theme=radical&utcOffset=5.5" alt="Productive Time" width="48%" />
+</p>
+
 ### **Detailed Analytics**
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd-gupta05&theme=radical" alt="Profile Details" width="100%"/>
@@ -100,8 +111,24 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidd-gupta05&theme=radical" alt="Most Commit Language" width="48%"/>
 </div>
 
+### **Contribution Metrics**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidd-gupta05&theme=radical" alt="GitHub Stats Card" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidd-gupta05&theme=radical&utcOffset=5.5" alt="Coding Time" width="48%" />
+</p>
+
 ### **Contribution Graph**
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidd-gupta05&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidd-gupta05&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=00FF00)
+
+### **Trophy Case**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sidd-gupta05&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+</p>
+
+### **Weekly Development Breakdown**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sidd-gupta05&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=FFFFFF&langs_count=5" alt="Wakatime Stats" width="100%"/>
+</p>
 
 </div>
 
@@ -123,6 +150,12 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
   <a href="https://siddharth-portfolio-liart.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://leetcode.com/u/siddharthgupta2482005/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://twitter.com/sidd_gupta05" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 
 </div>
 
@@ -133,7 +166,16 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
   ### 🚀 **Always Building, Always Learning**
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=sidd-gupta05&color=blueviolet&style=flat-square)
+  ![GitHub Followers](https://img.shields.io/github/followers/sidd-gupta05?label=Followers&style=social)
+  ![GitHub Stars](https://img.shields.io/github/stars/sidd-gupta05?label=Total%20Stars&style=social)
   
   ⭐️ **Feel free to explore my repositories and connect with me!**
   
 </div>
+
+---
+
+## 📈 GitHub Metrics
+<p align="center">
+  <img src="https://metrics.lecoq.io/sidd-gupta05?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" width="100%"/>
+</p>
