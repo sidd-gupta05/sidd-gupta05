@@ -120,10 +120,6 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 ### **Contribution Graph**
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidd-gupta05&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=00FF00)
 
-### **Trophy Case**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidd-gupta05&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</p>
 
 ### **Weekly Development Breakdown**
 <p align="center">
