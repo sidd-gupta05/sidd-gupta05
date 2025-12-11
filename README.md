@@ -121,11 +121,6 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidd-gupta05&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=00FF00)
 
 
-### **Weekly Development Breakdown**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sidd-gupta05&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=FFFFFF&langs_count=5" alt="Wakatime Stats" width="100%"/>
-</p>
-
 </div>
 
 ---
