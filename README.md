@@ -1,6 +1,6 @@
-# Hi 👋, I'm Siddharth Gupta
+<h1 align="center">Hi 👋, I'm Siddharth Gupta</h1>
+<h3 align="center">Computer Science Student | Exploring AI/ML & Data Science | Full-Stack Developer </h3>
 
-<h3 align="center">Computer Science Student | Exploring AI/ML & Data Science | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=13F74F&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Full-Stack+Projects;MongoDB+%7C+Node.js+%7C+React+%7C+MySQL;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
