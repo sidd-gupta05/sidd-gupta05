@@ -92,7 +92,7 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 ### **Language Usage & Activity**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidd-gupta05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidd-gupta05&theme=radical&utcOffset=5.5" alt="Productive Time" width="48%" />
+  
 </p>
 
 ### **Detailed Analytics**
