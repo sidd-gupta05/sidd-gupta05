@@ -89,12 +89,6 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 
 <div align="center">
 
-### **Streak Stats & Overview**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidd-gupta05&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=00FF00&fire=FF0000&currStreakLabel=00FF00" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sidd-gupta05&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-</p>
-
 ### **Language Usage & Activity**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidd-gupta05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" width="48%" />
