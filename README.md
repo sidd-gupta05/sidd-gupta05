@@ -12,7 +12,7 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 
 - 💻 Proficient in **HTML, CSS, Tailwind, React, Bootstrap, Node.js, Express.js, Next.js**
 - 🧠 Strong foundation in **C, Java (OOP), Data Structures**, and **Full-Stack Web Development**
-- 🛠️ Backend experience also includes **Python**, REST APIs, and MVC architecture
+- 🛠️ Backend experience also includes **Python**, REST APIs
 - 📊 Worked with **MongoDB, MySQL, Prisma ORM, and NeonDB**
 - 🎯 Currently learning **Machine Learning and System Design**
 - 🚀 I enjoy building scalable applications, solving real-world problems, and continuously learning new tech
