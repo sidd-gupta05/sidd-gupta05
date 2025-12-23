@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Gupta</h1>
 <h3 align="center">Computer Science Student | Exploring AI/ML & Data Science | Full-Stack Developer </h3>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=13F74F&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Full-Stack+Projects;MongoDB+%7C+Node.js+%7C+React+%7C+MySQL;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
@@ -12,7 +11,7 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 
 - 💻 Proficient in **MERN Stack, Bootstrap, Next.js**
 - 🧠 Strong foundation in **C, Java (OOP), Data Structures**, and **Full-Stack Web Development**
-- 🛠️ Backend experience also includes **Python, REST APIs, Node.js, Express.js** 
+- 🛠️ Backend experience also includes **Python, REST APIs, Node.js, Express.js**
 - 📊 Worked with **MongoDB, MySQL, Prisma ORM, and NeonDB**
 - 🎯 Currently learning **Machine Learning and System Design**
 - 🚀 I enjoy building scalable applications, solving real-world problems, and continuously learning new tech
@@ -22,41 +21,54 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 
 ## 🔨 Featured Projects
 
-### 🎙️ **[Koragg AI Voice Assistant](https://github.com/sidd-gupta05/Koragg-AI-Voice-Assistant)**  
-*Smart voice assistant to control your PC—open apps/websites, send WhatsApp messages, generate images, play YouTube, and more.*  
+### 🎙️ **[Koragg AI Voice Assistant](https://github.com/sidd-gupta05/Koragg-AI-Voice-Assistant)**
+
+_Smart voice assistant to control your PC—open apps/websites, send WhatsApp messages, generate images, play YouTube, and more._
+
 > **Tech Stack:** Python, Selenium, Web Speech API, OpenAI API, pywhatkit, Pygame  
-> **Features:** Voice-controlled automation, AI integration, multi-platform support, real-time processing  
+> **Features:** Voice-controlled automation, AI integration, multi-platform support, real-time processing
 
-### 🔬 **[Labsphere](https://labsphere-three.vercel.app/)**  
-*Modern laboratory management platform for equipment tracking and research collaboration*  
+### 🔬 **[Labsphere](https://labsphere-three.vercel.app/)**
+
+_Modern laboratory management platform for equipment tracking and research collaboration_
+
 > **Tech Stack:** React, Next.js, Tailwind CSS, TypeScript  
-> **Features:** Equipment inventory, booking system, user management, responsive design  
+> **Features:** Equipment inventory, booking system, user management, responsive design
 
-### 💼 **[Finance AI](https://finanace-ai-sidd.vercel.app/)**  
-*AI-powered finance assistant for smart tracking and insights*  
+### 💼 **[Finance AI](https://finanace-ai-sidd.vercel.app/)**
+
+_AI-powered finance assistant for smart tracking and insights_
+
 > **Tech Stack:** React, Tailwind, OpenAI API, Next.js  
-> **Features:** Expense tracking, AI insights, financial analytics, budget planning  
+> **Features:** Expense tracking, AI insights, financial analytics, budget planning
 
-### 🎨 **[Portfolio](https://siddharth-portfolio-liart.vercel.app/)**  
-*Personal portfolio showcasing projects, skills, and experience*  
+### 🎨 **[Portfolio](https://siddharth-portfolio-liart.vercel.app/)**
+
+_Personal portfolio showcasing projects, skills, and experience_
+
 > **Tech Stack:** React, Tailwind CSS, Framer Motion  
-> **Features:** Interactive UI, smooth animations, project showcase, responsive design  
+> **Features:** Interactive UI, smooth animations, project showcase, responsive design
 
-### 📸 **[Gifly](https://sidd-gifly.vercel.app/)**  
-*Search & view trending GIFs using Giphy API*  
+### 📸 **[Gifly](https://sidd-gifly.vercel.app/)**
+
+_Search & view trending GIFs using Giphy API_
+
 > **Tech Stack:** React, Giphy API, Tailwind Animations  
-> **Features:** Real-time search, trending section, favorites, responsive grid  
+> **Features:** Real-time search, trending section, favorites, responsive grid
 
-### 🧾 **[AI Form Builder](https://ai-form-builder-sidd.vercel.app/)**  
-*Generate dynamic HTML forms using AI prompts*  
+### 🧾 **[AI Form Builder](https://ai-form-builder-sidd.vercel.app/)**
+
+_Generate dynamic HTML forms using AI prompts_
+
 > **Tech Stack:** React, OpenAI API, Tailwind, Next.js  
-> **Features:** AI-powered form generation, customization options, export functionality  
+> **Features:** AI-powered form generation, customization options, export functionality
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Programming Languages**
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>
@@ -66,6 +78,7 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 </p>
 
 ### **Frontend Development**
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
@@ -75,6 +88,7 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 </p>
 
 ### **Backend & Databases**
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" title="Express.js"/>
@@ -89,7 +103,19 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 
 <div align="center">
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/sidd-gupta05/sidd-gupta05/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/sidd-gupta05/sidd-gupta05/output/snake.svg" />
+  <img alt="GitHub contribution snake"
+       src="https://raw.githubusercontent.com/sidd-gupta05/sidd-gupta05/output/snake.svg" />
+</picture>
+
 ### **Detailed Analytics**
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd-gupta05&theme=radical" alt="Profile Details" width="100%"/>
 </p>
@@ -100,14 +126,15 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 </div>
 
 ### **Contribution Metrics**
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidd-gupta05&theme=radical" alt="GitHub Stats Card" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidd-gupta05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" width="48%" />
 </p>
 
 ### **Contribution Graph**
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidd-gupta05&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=00FF00)
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidd-gupta05&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=00FF00)
 
 </div>
 
@@ -155,7 +182,7 @@ I'm a passionate and dedicated **Software Developer** with experience in both fr
 ---
 
 ## 📈 GitHub Metrics
+
 <p align="center">
   <img src="https://metrics.lecoq.io/sidd-gupta05?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" width="70%"/>
 </p>
-
