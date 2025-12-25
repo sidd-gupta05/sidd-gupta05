@@ -128,8 +128,7 @@ _Generate dynamic HTML forms using AI prompts_
 ### **Contribution Metrics**
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidd-gupta05&theme=radical" alt="GitHub Stats Card" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidd-gupta05&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidd-gupta05&theme=radical" alt="GitHub Stats Card" width="60%" />
 
 </p>
 
