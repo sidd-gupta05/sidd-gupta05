@@ -131,9 +131,17 @@ _Generate dynamic HTML forms using AI prompts_
 ### **Contribution Metrics**
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidd-gupta05&theme=radical" alt="GitHub Stats Card" width="60%" />
-
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidd-gupta05&theme=radical" 
+    alt="GitHub Stats Card" 
+    width="36%" />
+  &nbsp;&nbsp;
+  <img 
+    src="https://streak-stats.demolab.com?user=sidd-gupta05&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+    alt="GitHub Streak Stats" 
+    width="54%" />
 </p>
+
 
 ### **Contribution Graph**
 
