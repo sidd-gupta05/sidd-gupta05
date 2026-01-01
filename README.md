@@ -147,7 +147,7 @@ _Generate dynamic HTML forms using AI prompts_
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/sidd-gupta05" target="_blank">
+  <a href="https://www.linkedin.com/in/siddharth-gupta-08a56528b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/sidd-gupta05" target="_blank">
