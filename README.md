@@ -28,7 +28,7 @@ _Smart voice assistant to control your PC—open apps/websites, send WhatsApp me
 > **Tech Stack:** Python, Selenium, Web Speech API, OpenAI API, pywhatkit, Pygame  
 > **Features:** Voice-controlled automation, AI integration, multi-platform support, real-time processing
 
-### 🔬 **[Labsphere](https://labsphere-three.vercel.app/)**
+### 🔬 **[Labsphere](https://labsphere-med.vercel.app/)**
 
 _Modern laboratory management platform for equipment tracking and research collaboration_
 
@@ -42,7 +42,7 @@ _AI-powered finance assistant for smart tracking and insights_
 > **Tech Stack:** React, Tailwind, OpenAI API, Next.js  
 > **Features:** Expense tracking, AI insights, financial analytics, budget planning
 
-### 🎨 **[Portfolio](https://siddharth-portfolio-liart.vercel.app/)**
+### 🎨 **[Portfolio](https://siddharth-studio.vercel.app/)**
 
 _Personal portfolio showcasing projects, skills, and experience_
 
