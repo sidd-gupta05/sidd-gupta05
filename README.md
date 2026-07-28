@@ -121,6 +121,8 @@ _Generate dynamic HTML forms using AI prompts_
        src="https://raw.githubusercontent.com/sidd-gupta05/sidd-gupta05/output/snake.svg" />
 </picture>
 
+<!--
+
 ### **Detailed Analytics**
 
 <p align="center">
@@ -141,6 +143,8 @@ _Generate dynamic HTML forms using AI prompts_
     width="50%" />
   &nbsp;&nbsp;
 </p>
+
+-->
 
 
 ### **Contribution Graph**
@@ -164,14 +168,11 @@ _Generate dynamic HTML forms using AI prompts_
   <a href="mailto:siddharthgupta2482005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://siddharth-portfolio-liart.vercel.app/" target="_blank">
+  <a href="https://siddharth-studio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://leetcode.com/u/siddharthgupta2482005/" target="_blank">
+  <a href="https://leetcode.com/u/sidd-gupta05/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://x.com/Siddhar39561176" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 
 </div>
